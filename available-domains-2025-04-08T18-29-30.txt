@@ -1,0 +1,14 @@
+Available Domains for Patient Management System
+===========================================
+
+Generated on: 4/8/2025, 11:59:30 PM
+
+CareQueue.health - Price: 99990000 USD
+MediTrack.care - Price: 59990000 USD
+HealthVault.io - Price: 59990000 USD
+ProfileMed.net - Price: 12990000 USD
+RxManager.clinic - Price: 89990000 USD
+ChartFlow.io - Price: 59990000 USD
+MediSpace.clinic - Price: 89990000 USD
+HealthHub.io - Price: 59990000 USD
+RxTrack.co - Price: 49990000 USD

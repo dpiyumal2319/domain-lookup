@@ -1,0 +1,14 @@
+Available Domains for Patient Management System
+===========================================
+
+Generated on: 4/9/2025, 12:05:12 AM
+
+MediChart.care - Price: 59990000 USD
+RecordKeep.org - Price: 14990000 USD
+SalusData.health - Price: 99990000 USD
+VitaManage.com - Price: 10690000 USD
+SanitasTrack.care - Price: 59990000 USD
+RemedyLog.health - Price: 99990000 USD
+CuraBase.org - Price: 14990000 USD
+VitalRecords.care - Price: 59990000 USD
+SanareManage.com - Price: 10690000 USD
