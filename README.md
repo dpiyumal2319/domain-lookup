@@ -43,7 +43,7 @@ A powerful Node.js script that uses **Google Gemini AI** and the **GoDaddy API**
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/domain-finder.git
+git clone https://github.com/dpiyumal2319/domain-lookup.git
 cd domain-finder
 npm install
 ```
