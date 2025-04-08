@@ -115,6 +115,3 @@ MIT License. Feel free to use and modify.
 Healthcare startups, hospital systems, and individual developers looking to build trustworthy, domain-specific platforms for medical and patient management.
 
 ---
-```
-
-Let me know if you'd like a badge version or want to include screenshots or a demo video!
